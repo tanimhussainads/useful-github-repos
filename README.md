@@ -8,3 +8,10 @@
 A curated collection of useful GitHub repositories across different topics: tools, resources, and projects worth checking out.
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
+
+## 🔨 Repos
+
+### Table of Contents
+
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
