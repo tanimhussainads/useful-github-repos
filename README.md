@@ -15,3 +15,7 @@ A curated collection of useful GitHub repositories across different topics: tool
 
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
+## 🙏 Contributing
+
+Open a pull request or an issue. Even small contributions are welcome!
