@@ -11,10 +11,10 @@ A curated collection of useful GitHub repositories across different topics: tool
 
 ## 🔨 Repos
 
-### Table of Contents
-
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
+### Table of Contents
 
 - [Tools](#tools)
 
