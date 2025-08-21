@@ -20,6 +20,10 @@ A curated collection of useful GitHub repositories across different topics: tool
 
 Open a pull request or an issue. Even small contributions are welcome!
 
+## ⚠️ Disclaimer
+
+By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by GitHub, Inc., any of the repository owners, maintainers, or contributors mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the listed repositories or their content. Updates to repositories, their code, documentation, licensing, availability, or maintenance status are outside the control of this project. Users clone, fork, and use repositories at their own risk and discretion. The author of this repository does not assume responsibility for any issues, damages, or consequences that may arise from using any of the recommended repositories, including but not limited to security vulnerabilities, malicious code, licensing conflicts, deprecated dependencies, or broken functionality. Always review repository licenses, examine code thoroughly, check for recent maintenance activity, and exercise caution when integrating any third-party code into your projects.
+
 ## 🎫 License
 
 This project is licensed under the [MIT License](LICENSE.md).
