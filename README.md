@@ -16,6 +16,10 @@ A curated collection of useful GitHub repositories across different topics: tool
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
 
+### Tools
+
+- [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown
+
 ## 🙏 Contributing
 
 Open a pull request or an issue. Even small contributions are welcome!
