@@ -19,3 +19,7 @@ A curated collection of useful GitHub repositories across different topics: tool
 ## 🙏 Contributing
 
 Open a pull request or an issue. Even small contributions are welcome!
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
