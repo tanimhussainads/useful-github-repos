@@ -22,6 +22,9 @@ A curated collection of useful GitHub repositories across different topics: tool
 
 - [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown
 
+> [!TIP]
+> Take a look at [my repositories](https://github.com/ChampyTech?tab=repositories). You're sure to find something useful! ☺️
+
 ## 🙏 Contributing
 
 Open a pull request or an issue. Even small contributions are welcome!
